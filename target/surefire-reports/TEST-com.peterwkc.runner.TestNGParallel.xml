@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.peterwkc.runner.TestNGParallel" time="0.692" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework\target\test-classes;C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework\target\classes;C:\Users\admin\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\admin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\admin\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\admin\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\admin\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-core\4.1.1\cucumber-core-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-html\0.2.7\cucumber-html-0.2.7.jar;C:\Users\admin\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-java\4.1.1\cucumber-java-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-java8\4.1.1\cucumber-java8-4.1.1.jar;C:\Users\admin\.m2\repository\net\jodah\typetools\0.5.0\typetools-0.5.0.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-junit\4.1.1\cucumber-junit-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-testng\4.1.1\cucumber-testng-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\gherkin\4.1.3\gherkin-4.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\gherkin-jvm-deps\1.0.4\gherkin-jvm-deps-1.0.4.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable\1.1.3\datatable-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable-dependencies\1.1.3\datatable-dependencies-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable-matchers\1.1.3\datatable-matchers-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-expressions\6.0.1\cucumber-expressions-6.0.1.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports-cucumber4-adapter\1.0.7\extentreports-cucumber4-adapter-1.0.7.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\admin\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\admin\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Singapore"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\admin\AppData\Local\Temp\surefire13318703030615737111\surefirebooter6729525994046704763.jar C:\Users\admin\AppData\Local\Temp\surefire13318703030615737111 2019-07-10T16-00-37_890-jvmRun1 surefire123235049088466269tmp surefire_01482706942233784287tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework\target\test-classes;C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework\target\classes;C:\Users\admin\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\admin\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\admin\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\admin\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\admin\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-core\4.1.1\cucumber-core-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-html\0.2.7\cucumber-html-0.2.7.jar;C:\Users\admin\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-java\4.1.1\cucumber-java-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-java8\4.1.1\cucumber-java8-4.1.1.jar;C:\Users\admin\.m2\repository\net\jodah\typetools\0.5.0\typetools-0.5.0.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-junit\4.1.1\cucumber-junit-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-testng\4.1.1\cucumber-testng-4.1.1.jar;C:\Users\admin\.m2\repository\io\cucumber\gherkin\4.1.3\gherkin-4.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\gherkin-jvm-deps\1.0.4\gherkin-jvm-deps-1.0.4.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable\1.1.3\datatable-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable-dependencies\1.1.3\datatable-dependencies-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\datatable-matchers\1.1.3\datatable-matchers-1.1.3.jar;C:\Users\admin\.m2\repository\io\cucumber\cucumber-expressions\6.0.1\cucumber-expressions-6.0.1.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports-cucumber4-adapter\1.0.7\extentreports-cucumber4-adapter-1.0.7.jar;C:\Users\admin\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\admin\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\admin\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\admin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\admin\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\admin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\admin\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\admin\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\admin"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-04-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\admin\AppData\Local\Temp\surefire13318703030615737111\surefirebooter6729525994046704763.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="12.0.1+12"/>
+    <property name="user.name" value="admin"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\admin\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\admin\AppData\Local\Temp\"/>
+    <property name="java.version" value="12.0.1"/>
+    <property name="user.dir" value="C:\Eclipse-workspace\Cucumber-4.2-Automation-Framework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-12.0.1/bin/server;C:/Program Files/Java/jdk-12.0.1/bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-12.0.1\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Roaming\npm;C:\Apps\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="12.0.1+12"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="56.0"/>
+  </properties>
+</testsuite>

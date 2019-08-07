@@ -1,0 +1,42 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "id": "login;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": []
+      }
+    ],
+    "name": "Login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/appLogin.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "id": "logout;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": []
+      }
+    ],
+    "name": "Logout",
+    "description": "",
+    "id": "logout",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/appLogout.feature",
+    "tags": []
+  }
+]
